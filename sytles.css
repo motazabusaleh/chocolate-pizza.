@@ -51,3 +51,7 @@ position: relative;
 .center{
   align-content: stretch;
 }
+
+.pic {
+  background-image: url("list-bg.png");
+}
